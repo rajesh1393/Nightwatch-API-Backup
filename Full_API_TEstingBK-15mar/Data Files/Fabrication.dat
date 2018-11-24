@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>Fabrication</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>c5139594-dcd2-407e-9b41-a2a6cafd9cfc</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>a5784c49027366bd728b3c24e6bf55c3</data>
+   <data>165ec66c8d0b3cb29c2af1fd5de4eff5</data>
+   <data>77588cb76a96d80a26b1afc65b0aa9a2</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>Realm_uuid</name>
+      <size>3</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

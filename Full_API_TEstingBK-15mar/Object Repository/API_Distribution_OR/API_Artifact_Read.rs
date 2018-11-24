@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebServiceRequestEntity>
+   <description></description>
+   <name>API_Artifact_Read</name>
+   <tag></tag>
+   <elementGuidId>11177168-2431-4e99-a773-a1d837e7e206</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <httpBody></httpBody>
+   <restParameters>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value></value>
+   </restParameters>
+   <restRequestMethod>GET</restRequestMethod>
+   <restUrl>http://us-west-2.archivist.acceptance.boxxspring.net/realms/1e338862026376dd593425404a4f75c0/artifacts</restUrl>
+   <serviceType>RESTful</serviceType>
+   <soapBody></soapBody>
+   <soapHeader></soapHeader>
+   <soapRequestMethod></soapRequestMethod>
+   <soapServiceFunction></soapServiceFunction>
+   <wsdlAddress></wsdlAddress>
+</WebServiceRequestEntity>

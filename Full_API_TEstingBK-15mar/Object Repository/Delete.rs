@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebServiceRequestEntity>
+   <description></description>
+   <name>Delete</name>
+   <tag></tag>
+   <elementGuidId>0773d107-37a6-4909-9e33-6705db9e7f4e</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <httpBody></httpBody>
+   <restParameters>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>uuid</name>
+      <type>Main</type>
+      <value>f34990a85f2f19227c70c870edf593c0</value>
+   </restParameters>
+   <restParameters>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>access_token</name>
+      <type>Main</type>
+      <value>5422e9fefd05e874dfea631770b9f7bb</value>
+   </restParameters>
+   <restRequestMethod>DELETE</restRequestMethod>
+   <restUrl>http://us-west-2.distributor.acceptance.boxxspring.net/realms/1e338862026376dd593425404a4f75c0/distributions</restUrl>
+   <serviceType>RESTful</serviceType>
+   <soapBody></soapBody>
+   <soapHeader></soapHeader>
+   <soapRequestMethod></soapRequestMethod>
+   <soapServiceFunction></soapServiceFunction>
+   <wsdlAddress></wsdlAddress>
+</WebServiceRequestEntity>

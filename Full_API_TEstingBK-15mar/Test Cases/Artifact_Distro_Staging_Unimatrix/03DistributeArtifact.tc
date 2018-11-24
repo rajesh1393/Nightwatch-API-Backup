@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>03DistributeArtifact</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8f5460e2-73fd-4042-afd9-d6e95b631e96</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>10403ee2-db27-4435-a0bd-98b6fd5a9d5e</id>
+      <masked>false</masked>
+      <name>Name</name>
+   </variable>
+</TestCaseEntity>

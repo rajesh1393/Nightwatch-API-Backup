@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Artifact_Distro_staging_unimatrix</name>
+   <tag></tag>
+   <comment>Data driven appoarch used to get a data from InternalData</comment>
+   <testCaseGuid>7dcad767-a51e-48f7-a970-919201148fec</testCaseGuid>
+</TestCaseEntity>

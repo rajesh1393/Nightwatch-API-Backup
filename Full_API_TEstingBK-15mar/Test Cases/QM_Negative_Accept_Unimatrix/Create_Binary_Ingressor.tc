@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create_Binary_Ingressor</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2c014c37-e929-4de7-b475-774c5354bf7e</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7a45a0b8-3ded-44c7-a206-27109ba6468d</id>
+      <masked>false</masked>
+      <name>URL</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create_Binary</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b9801036-98c7-4c1f-93b6-e1eff52f5b4a</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4a80f826-4c65-4ce1-bee6-43f274f437af</id>
+      <masked>false</masked>
+      <name>filename</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Artifact_Distribution_archivist_Acceptance</name>
+   <tag></tag>
+   <comment>Data driven appoarch used to get a data from InternalData</comment>
+   <testCaseGuid>75961d67-6d47-453c-93db-728b658d259b</testCaseGuid>
+</TestCaseEntity>

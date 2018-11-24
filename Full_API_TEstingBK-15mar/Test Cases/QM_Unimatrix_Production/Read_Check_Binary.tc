@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Read_Check_Binary</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a5c65d9a-40d0-4022-8311-68e4966b0d20</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6dc3bf73-83fd-42f7-a7c1-d566c2b49227</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>

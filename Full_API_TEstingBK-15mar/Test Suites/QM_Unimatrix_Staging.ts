@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>QM_Unimatrix_Staging</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <lastRun>2018-03-07T23:45:23</lastRun>
+   <mailRecipient>pg.vishnuqa@gmail.com;qa.angler@gmail.com;</mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>e6c5e756-ab8a-4d83-afcc-32d77836c18d</testSuiteGuid>
+   <testCaseLink>
+      <guid>ee216a07-5e86-404f-8085-23f895c9d3cd</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/QM_Unimatrix_Staging/Create_Binary</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>4a80f826-4c65-4ce1-bee6-43f274f437af</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>c5a2ee3d-dbf0-4b99-a150-d79a994dd12c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/QM_Unimatrix_Staging/Create_Binary_Ingressor</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>39e54260-f124-44f9-aa42-6c57e511f638</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>943e62a3-ced2-4b2a-9a5f-358d88fa6fe9</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/QM_Unimatrix_Staging/Read_Check_Binary_Ingressor</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>27f84223-48cb-43c1-8e10-7de81af9a14f</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>1e6c3006-b500-4444-8899-1506734c3d02</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/QM_Unimatrix_Staging/Read_Check_Binary</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>9147bdc5-ec94-482d-a2dc-126d01ba69e1</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>e61ce892-bef9-4c32-b9cc-40b4428af166</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/QM_Unimatrix_Staging/Negative_Binary_Ingressor</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>0ee64b7c-5dad-4327-82b3-ca697a411730</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

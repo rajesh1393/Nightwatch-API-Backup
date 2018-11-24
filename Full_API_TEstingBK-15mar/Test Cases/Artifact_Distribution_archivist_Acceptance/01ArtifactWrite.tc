@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>01ArtifactWrite</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3e06efb0-8b00-49f6-a602-ec1923ba2908</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c296a117-0afe-4eb1-9e7a-c418a19a0f9c</id>
+      <masked>false</masked>
+      <name>Name</name>
+   </variable>
+</TestCaseEntity>

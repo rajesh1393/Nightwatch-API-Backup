@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>QM_Unimatrix_Acceptance</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <lastRun>2018-03-07T23:44:33</lastRun>
+   <mailRecipient>pg.vishnuqa@gmail.com;poornakiruthikaa@gmail.com;qa.angler@gmail.com;thomas@sportsrocket.com;eapa@sportsrocket.com;</mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>06ffe844-430d-404d-bf10-b7d8b4fb0113</testSuiteGuid>
+   <testCaseLink>
+      <guid>bfb38525-e989-4c5a-9099-5eac616ef79c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/QM_Unimatrix_Acceptance/Create_Binary</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>90522a8d-2067-47b2-8999-b554cdf3af13</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>fa283db2-1494-4029-8096-2babffeb5f37</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/QM_Unimatrix_Acceptance/Create_Binary_Ingressor</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>accf5ee6-55f7-491c-985a-fefc3e349cca</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>d0c2801a-ac95-4dea-8f28-2238ecc3a997</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/QM_Unimatrix_Acceptance/Read_Check_Binary_Ingressor</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>8ee05bee-3371-44c9-b8ea-245f6ed07b5d</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>8f5eb52a-05d3-4a89-8029-b26436caa0d1</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/QM_Unimatrix_Acceptance/Read_Check_Binary</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>a11ef91f-aaf0-4c6d-9457-7290706f0f4b</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>577fe4fc-31cf-454e-be18-301547062ac0</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/QM_Unimatrix_Acceptance/Negative_Binary_Ingressor</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>cef7d11c-7792-4061-908d-d9a001e3b40d</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

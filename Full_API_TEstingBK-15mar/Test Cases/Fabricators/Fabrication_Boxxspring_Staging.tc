@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Fabrication_Boxxspring_Staging</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>43d47daa-88d6-4943-a537-c93d445591b4</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0dba3196-de67-4f0d-9f0c-8944af3c67fb</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>

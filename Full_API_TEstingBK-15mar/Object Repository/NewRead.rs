@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebServiceRequestEntity>
+   <description></description>
+   <name>NewRead</name>
+   <tag></tag>
+   <elementGuidId>f17e03ef-ecac-405e-929f-b7791d10cd12</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <httpBody></httpBody>
+   <restParameters>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>access_token</name>
+      <type>Main</type>
+      <value>5422e9fefd05e874dfea631770b9f7bb</value>
+   </restParameters>
+   <restRequestMethod>GET</restRequestMethod>
+   <restUrl>http://us-west-2.quartermaster.acceptance.boxxspring.net/realms/f53dbe250d8a05d1ca44b28b95eb5e20/binaries?uuid.in=4a3abd256f211945679397e056430217</restUrl>
+   <serviceType>RESTful</serviceType>
+   <soapBody></soapBody>
+   <soapHeader></soapHeader>
+   <soapRequestMethod></soapRequestMethod>
+   <soapServiceFunction></soapServiceFunction>
+   <wsdlAddress></wsdlAddress>
+</WebServiceRequestEntity>

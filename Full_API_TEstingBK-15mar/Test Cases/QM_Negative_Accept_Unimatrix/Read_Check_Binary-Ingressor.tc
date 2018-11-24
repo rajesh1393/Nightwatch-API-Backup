@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Read_Check_Binary-Ingressor</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>14c49379-66f2-4c4d-85b1-99f2de783291</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>14c6b15d-4c36-4073-a1e3-8087ce6f960c</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>

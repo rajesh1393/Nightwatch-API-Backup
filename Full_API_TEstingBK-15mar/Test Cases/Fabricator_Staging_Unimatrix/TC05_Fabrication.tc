@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC05_Fabrication</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1aee87b2-5310-45be-9291-4601c7c94f50</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>18498d7e-2572-4aeb-8cc0-4c443af7114a</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>02Artifact_Read</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>10d757cc-f9ab-48ab-9ce1-a0ade5d7834b</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7c448106-2db7-4c6e-8f48-db86453372f6</id>
+      <masked>false</masked>
+      <name>Name</name>
+   </variable>
+</TestCaseEntity>

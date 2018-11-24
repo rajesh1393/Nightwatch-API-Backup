@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>QuarterMaster_Boxxspring_Acceptance</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <lastRun>2018-02-26T12:58:02</lastRun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>b7be477b-b3b5-4626-a0c3-2484b9d20e1d</testSuiteGuid>
+   <testCaseLink>
+      <guid>bf46e101-2977-48c2-9003-f0648703a226</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/QuarterMaster_Boxxspring_Acceptance/Create_Binary</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>840ea516-548d-412a-8699-9d09069b9c4c</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/QuarterMaster</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>840ea516-548d-412a-8699-9d09069b9c4c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>fileName</value>
+         <variableId>6d9108de-425b-4b3e-b178-990c255c770f</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>48243ba6-e907-4bfb-92e2-1aaee131fd22</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/QuarterMaster_Boxxspring_Acceptance/Create_Binary_Ingressor</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>168bc5c4-d3df-42bb-8a1d-1e36cb65580a</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/QuarterMaster</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>168bc5c4-d3df-42bb-8a1d-1e36cb65580a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>URL</value>
+         <variableId>b5235441-f802-4914-b2b4-e87b7923e03c</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>57106be3-0450-4ba2-8990-1f68a8bcc99d</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/QuarterMaster_Boxxspring_Acceptance/Read_Check_Binary-Ingressor</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>35f584ac-8e3d-4ca9-a578-78f4b0136d4e</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/QuarterMaster</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>35f584ac-8e3d-4ca9-a578-78f4b0136d4e</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>URL</value>
+         <variableId>3b47abb1-4ff5-4193-acb9-84fbd894cb37</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>56fcb65f-e326-468f-931e-a0ca005145a5</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/QuarterMaster_Boxxspring_Acceptance/Read_Check_Binary</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>47130ea5-92b9-4f47-a39f-a0091a8d30e3</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>
